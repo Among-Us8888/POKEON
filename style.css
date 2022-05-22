@@ -1,0 +1,12 @@
+body{
+text-align:center;
+padding:1000px;
+}
+
+#Meow{
+border-radius:50%;
+}
+
+#START{
+background-color:linear-gradient(red,rgb(249, 127, 148));
+}
